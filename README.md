@@ -1,12 +1,12 @@
-# 🎉 Bem-vindo ao Repositório de Componentes de UI Animados!
+# 🎉 Welcome to the Animated UI Components Repository!
 
-Este repositório contém uma coleção de componentes quer são focados em ótimas animações utilizando [Reanimated](https://docs.swmansion.com/react-native-reanimated/)
+This repository contains a collection of components focused on delivering great animations using [Reanimated](https://docs.swmansion.com/react-native-reanimated/)
 
-## 🚀 Como começar
+## 🚀 Getting Started
 
-O objetivo não é utilizar este repositório como uma biblioteca, mas sim copiar o código deste projeto para o seu e modifica-lo da maneira que achar melhor! Os componentes estão localizados dentro da pasta `app/components`.
+The goal isn't to use this repository as a library, but to copy the code from this project into yours and modify it as you see fit! The components can be found in the app/components folder.
 
-## Componentes Desenvolvidos
+## Developed Components
 - Step Indicator
 https://github.com/user-attachments/assets/a69d9a57-f8d5-42f0-bf06-e9bcb4d5bef5
 
