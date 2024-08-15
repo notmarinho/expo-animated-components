@@ -1,6 +1,6 @@
 # 🎉 Bem-vindo ao Repositório de Componentes de UI Animados!
 
-Este repositório contém uma coleção de componentes quer são focados em ótimas animações utilizando [Texto do Link]([URL](https://docs.swmansion.com/react-native-reanimated/)).
+Este repositório contém uma coleção de componentes quer são focados em ótimas animações utilizando [Reanimated](https://docs.swmansion.com/react-native-reanimated/)
 
 ## 🚀 Como começar
 
