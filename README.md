@@ -4,7 +4,7 @@ Este repositório contém uma coleção de componentes quer são focados em óti
 
 ## 🚀 Como começar
 
-O objetivo não é utilizar este repositório como uma biblioteca, mas sim copiar o código deste projeto para o seu e modifica-lo da maneira que achar melhor!
+O objetivo não é utilizar este repositório como uma biblioteca, mas sim copiar o código deste projeto para o seu e modifica-lo da maneira que achar melhor! Os componentes estão localizados dentro da pasta `app/components`.
 
 ## Componentes Desenvolvidos
 - Step Indicator
