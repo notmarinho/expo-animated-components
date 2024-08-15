@@ -1,10 +1,8 @@
+import React, { useEffect } from 'react';
+import { SplashScreen, Stack } from 'expo-router';
+import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { useFonts } from 'expo-font';
-import { Stack } from 'expo-router';
-import * as SplashScreen from 'expo-splash-screen';
-import { useEffect } from 'react';
-import 'react-native-reanimated';
 
-// Prevent the splash screen from auto-hiding before asset loading is complete.
 SplashScreen.preventAutoHideAsync();
 
 export default function RootLayout() {
@@ -23,8 +21,14 @@ export default function RootLayout() {
   }
 
   return (
-      <Stack>
-        <Stack.Screen name="home_screen" options={{ headerShown: false }} />
-      </Stack>
+    <GestureHandlerRootView>
+      <Stack
+        screenOptions={{
+          headerShown: false,
+          headerShadowVisible: false,
+          headerLargeTitleShadowVisible: false,
+        }}
+      />
+    </GestureHandlerRootView>
   );
 }
